@@ -4,3 +4,5 @@ color = ["red","orange","yellow","green","blue","indigo","violet"]
 def display_rainbow(color = "all")
   puts "#{color}"
 end
+
+display_rainbow("red")
